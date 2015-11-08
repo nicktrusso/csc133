@@ -1,0 +1,5 @@
+package a3.movement;
+
+public interface IMoveableBehavior {
+	public void move();
+}
