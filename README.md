@@ -1,5 +1,4 @@
-# csc133
-csc133 assignments
+# csc133 - Object-Oriented Computer Graphics Programming
 
 <strong>Dog Catcher:</strong></br>
 <ul>
